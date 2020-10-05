@@ -11,3 +11,5 @@ Violet
 These are the colors of the rainbow.
 
 Rainbows only appear after rain.
+
+Rainbows are cool.
